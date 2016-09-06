@@ -10,17 +10,17 @@ Click on the pictures to acces to the service.
 ## Paris_EN.csv
 
 **Search engine**<br>
-[![ScreenShot](http://ip93.ip-5-196-190.eu/img/search_EN.png)](http://ip93.ip-5-196-190.eu/Paris_EN/search.html)<br>
+[![ScreenShot](http://ip93.ip-5-196-190.eu/img/Paris_EN_search.png)](http://ip93.ip-5-196-190.eu/Paris_EN/search.html)<br>
 
 **Random article**<br>
-[![ScreenShot](http://ip93.ip-5-196-190.eu/img/random_EN.png)](http://ip93.ip-5-196-190.eu/Paris_EN/random.html)<br>
+[![ScreenShot](http://ip93.ip-5-196-190.eu/img/Paris_EN_random.png)](http://ip93.ip-5-196-190.eu/Paris_EN/random.html)<br>
 
 ## Paris_FR.csv
 
 **Search engine**<br>
-[![ScreenShot](http://ip93.ip-5-196-190.eu/img/search_FR.png)](http://ip93.ip-5-196-190.eu/Paris_FR/search.html)<br>
+[![ScreenShot](http://ip93.ip-5-196-190.eu/img/Paris_FR_search.png)](http://ip93.ip-5-196-190.eu/Paris_FR/search.html)<br>
 
 **Random article**<br>
-[![ScreenShot](http://ip93.ip-5-196-190.eu/img/random_FR.png)](http://ip93.ip-5-196-190.eu/Paris_FR/random.html)<br>
+[![ScreenShot](http://ip93.ip-5-196-190.eu/img/Paris_FR_random.png)](http://ip93.ip-5-196-190.eu/Paris_FR/random.html)<br>
 
 
